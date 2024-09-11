@@ -1,5 +1,7 @@
 # Aplikasi-login
-Alur Fitur Login:
-1. Memasukkan email dan password
-2. Memvalidasi masukan.
-3. Menampilkan halaman home.
+Daftar fitur aplikasi login
+--
+*Berikut alur Fitur Login:
+- Memasukkan email dan password
+- Memvalidasi masukan.
+- Menampilkan halaman home.
